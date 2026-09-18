@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "wireless noise-canceling headphones",
+    "category": "Electronics",
+    "price": 249.99,
+    "in_stock": true,
+    "rating": 4.7,
+    "specifications": {
+      "battery_life": "30 hours",
+      "connectivity": "Bluetooth 5.2",
+      "color": "Matte Black"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ergonomic Mechanical Keyboard",
+    "category": "Computer Accessories",
+    "price": 129,
+    "in_stock": true,
+    "rating": 4.5,
+    "specifications": {
+      "switch_type": "Cherry MX Brown",
+      "backlight": "RGB",
+      "layout": "Tenkeyless (80%)"
+    }
+  },
+  {
+    "id": 3,
+    "name": "headphones",
+    "category": "Electronics",
+    "price": 24.99,
+    "in_stock": true,
+    "rating": 4.7,
+    "specifications": {
+      "capacity": "600ml",
+      "insulation": "24 hours cold",
+      "features": "Hydration tracking, UV sterilization"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ultra-Wide Productivity Monitor",
+    "category": "Electronics",
+    "price": 449.99,
+    "in_stock": true,
+    "rating": 4.8,
+    "specifications": {
+      "screen_size": "34 inches",
+      "resolution": "3440 x 1440",
+      "panel_type": "IPS"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Premium Arabica Coffee Beans",
+    "category": "Grocery",
+    "price": 18.99,
+    "in_stock": true,
+    "rating": 4.9,
+    "specifications": {
+      "roast_level": "Medium-Dark",
+      "weight": "1kg",
+      "origin": "Ethiopia"
+    }
+  },
+  {
+    "id": 6,
+    "name": "headphones",
+    "category": "Electronics",
+    "price": 24.99,
+    "in_stock": true,
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "name": "headphones",
+    "category": "Electronics",
+    "price": 24.99,
+    "in_stock": true,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "headphones",
+    "category": "Electronics",
+    "price": 24.99,
+    "in_stock": true,
+    "rating": 4.7
+  }
+]
