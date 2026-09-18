@@ -6,6 +6,7 @@ const fs = require('fs')
 
 app.get('/', (req,res) => {
     res.send('hi there')
+    
 });
 
 app.use('/about', logger)
